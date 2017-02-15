@@ -1,0 +1,6 @@
+{
+    // "shell_cmd": "make"
+    "cmd": ["/usr/local/opt/php71/bin/php", "$file"],
+    "file_regex": "php$",
+    "selector": "source.php"
+}

@@ -1,0 +1,7 @@
+{
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true,
+    "rulers": [72, 79],
+    "wrap_width": 80,
+    "wide_caret": true
+}

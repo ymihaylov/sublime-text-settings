@@ -1,0 +1,11 @@
+{
+	"dialog": false,
+	"growl_active": true,
+	"machine_name": "Billy Kilian",
+	"notify_send_active": true,
+	"notify_send_path": "/usr/bin/notify-send",
+	"pushover_active": false,
+	"pushover_user_id": "",
+	"user_id": "e709272ca23ef7a7b7861f98a750ce3ccde27e87",
+	"user_token": "74b0658d754a5006b05a8540e9fc9e61d58d9cd8"
+}

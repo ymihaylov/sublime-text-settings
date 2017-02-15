@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Git",
+		"Laravel 5 Artisan",
+		"Laravel Blade Highlighter",
+		"Package Control",
+		"PHP Companion",
+		"PHP Getters and Setters",
+		"PhpNamespace",
+		"Python Flake8 Lint",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Tomorrow Night Italics Color Scheme",
+		"TrailingSpaces",
+		"WakaTime"
+	]
+}
